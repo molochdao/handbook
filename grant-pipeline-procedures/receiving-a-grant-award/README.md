@@ -1,0 +1,7 @@
+# Receiving a Grant Award
+
+* MolochDAO highly recommends projects set up a Gnosis Safe or hardware wallet to receive your grant deposits. Once an individual or organization is accepted into MolochDAO they cannot change their member address without ragequitting all of their shares and reapplying for membership, so selecting a secure multi-signature wallet or hardware wallet - like Gnosis Safe - makes grant distributions much safer and easier to manage for all parties.&#x20;
+* Guilds can use their member wallet address to set a delegate key to a Metamask address or other mobile wallets to allow for more convenient access to voting or proposal submission procedures. For more information on how to set up a multi-sig or hardware wallet, [please visit this guide](https://medium.com/molochdao/moloch-summoning-guide-12a2a288e0ff).&#x20;
+* Upon being awarded a grant, you must identify an individual to serve as delegate for your project. A project without an active member in its ranks or that does not hold at least one MolochDAO share will not be recognized as a MolochDAO member by the community.&#x20;
+* Note: if a guild chooses to ragequit 100% of their shares, they are effectively and officially dissolving their membership within the DAO. If the guild desires to reapply for funding at a later date they must recruit an active member to serve as liaison and submit their proposal for consideration.&#x20;
+
