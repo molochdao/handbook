@@ -9,8 +9,8 @@
 
 ### What Moloch _is_
 
-1. **Moloch is Ethereum. **We believe Ethereum is more than a ponzi scheme riding the coattails of cypherpunk. This infrastructure is changing the world and we will break our backs to keep it running.
-2. **Moloch stands for public goods. **Ethereum is a digital public good that will someday facilitate protecting and nurtering our material public goods. Ethereum is the gwei.
+1. **Moloch is Ethereum. **We believe Ethereum is more than a Ponzi scheme riding the coattails of cypherpunk. This infrastructure is changing the world and we will break our backs to keep it running.
+2. **Moloch stands for public goods. **Ethereum is a digital public good that will someday facilitate protecting and nurturing our material public goods. Ethereum is the gwei.
 3. **Moloch is punk as fuck.** Kill yr idols, practice careful and critical civil disobedience, just say no to degenerates. We can take a punch to the face and still remain optimistic that we can manifest this world to be better, much better.&#x20;
 4. **Moloch is constantly evolving.** What MolochDAO is today may not be what it is tomorrow. (If it is we are failing.) What you do after reading this may change Moloch forever. It’s up to you. 🤘🏽👹🤘🏽
 
