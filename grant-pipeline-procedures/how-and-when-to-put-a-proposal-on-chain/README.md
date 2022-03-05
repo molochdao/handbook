@@ -26,7 +26,7 @@ We are actively pursuing community building and support initiatives through stre
 
 **Where can I read more about previous grants?**
 
-We are currently working on a comprehensive annual report of previously funded MolochDAO initiatives, as well as a repository for regular updates to current projects.
+Included in the [2021 Annual Report](https://molochdao.com/annual-report/) is previously funded MolochDAO initiatives, as well as a repository for regular updates to current projects.
 
 **What is the process of getting funding?**
 
