@@ -6,11 +6,11 @@ Every Friday is a MolochDAO happy hour. We strongly encourage you join for its c
 
 **Members only:**
 
-* ReallyBoringGuild Sync, Monday at 9AM MST (15:00 UTC)
+* ReallyBoringGuild Sync, Monday at 9AM MST (15:00 UTC) in [The Bored Room](https://discord.gg/yUTqZWhF4a)
 
 **Open to the public:**
 
-* Happy-Hour, Friday at 4PM MST (22:00 UTC)
+* Happy-Hour, Friday at 4PM MST (22:00 UTC) in the MolochDAO Discord [Townhall](https://discord.gg/vtwGU4QFQs)
 
 
 
