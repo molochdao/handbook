@@ -1,3 +1,3 @@
 # Treasury Management
 
-MolochDAO currently lacks an adequate treasury committee or guild tasked with managing the assets accumulated from reciprocal grants to replenish the DAO treasury. Members are encouraged to consider the best way to attend to this need.
+At the time of this writing, MolochDAO has a substantial treasury that is only being depleated.  If the DAO is to continue to fund public goods, a committee or guild will need to manage and replenish the treasury.  Anyone intersted in this task is encouraged to make it known in the Discord.  Please reach out to a ReallyBoringGuild member in the get-involved channel.
