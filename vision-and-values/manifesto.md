@@ -9,7 +9,7 @@
 
 ### What MolochDAO _is_
 
-1. **MolochDAO is Ethereum. We believe Ethereum is not the perceived Ponzi scheme, riding the coattails of cypherpunk. This infrastructure is changing the world and we will break our backs to keep it running.**
+1. **MolochDAO is Ethereum. We believe that Ethereum is infrastructure that is changing the world, not the perceived Ponzi scheme, riding on the coattails of cypherpunk, and we will break our backs to keep it running.**
 2. **MolochDAO stands for Ethereum as a digital public good that will someday facilitate protecting and nurturing our material public goods. Ethereum is the gwei.**
 3. **MolochDAO is punk as fuck.** Kill yr idols, practice careful and critical civil disobedience, just say no to degenerates. We can take a punch to the face and still remain optimistic that we can manifest this world to be better, much better.&#x20;
 4. **MolochDAO is constantly evolving.** What MolochDAO is today may not be what it is tomorrow. (If it is we are failing.) What you do after reading this may change Moloch forever. It’s up to you. 🤘🏽👹🤘🏽
