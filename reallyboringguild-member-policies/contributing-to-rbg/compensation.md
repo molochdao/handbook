@@ -13,7 +13,7 @@ description: Work in progress!
 
 **Status Updates**
 
-Each RBG contributor will be assigned a dedicated status update page in the RBG-managed Notion project space to summarize their accomplishments from the previous week, detail plans for the current week, and determine their availability. This should be updated by Monday 08:00PST.&#x20;
+On the first Monday of the month, each RBG contributor will have submitted payment requests, via Github, for the previous month.  These requests will include expenses and time, with associated summaries and documents.&#x20;
 
 
 
