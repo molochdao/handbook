@@ -24,7 +24,7 @@
 **First Week of the Second Month: Sponsorship and Voting Phase**
 
 * DAO members that have expressed interest in championing specific projects will be reminded by RBG to sponsor the proposal at a **sponsorship price of 1 WETH.** _There is no processing reward on the v2 DAO,_ so **100% of these funds will be returned after the grace period** and gas fees will be reimbursed from the RBG budget. (Please keep your txn records!)
-* Sponsorship will occur at a **MolochDAO member meeting (aka sponsorship party!) scheduled for Monday December 6th** to ensure they are opened to voting at the same time.
+* Sponsorship will occur at a **MolochDAO member meeting (aka sponsorship party!) scheduled for the second Monday of the second month** to ensure they are opened to voting at the same time.
 * The voting period is 7 days.
 
 **15th day of the Second Month: Results and Grace Period**
