@@ -39,7 +39,7 @@
 * Extend new MolochDAO handbook
 * Invite to MolochDAO Discord server and update role to “member”
 * Invite to reoccuring DAO meetings: RBG ops sync, Friday cocktail hour
-* Invite to an orientation meeting for new grantees: **Friday December 17th**
+* Invite to an orientation meeting for new grantees: **Second Friday of the Second Month**
 * Encourage them to keep some of their shares and continue contributing to MolochDAO!
 
 **20th day of the Second Month: Proposals are Processed! End of the Pipeline**
