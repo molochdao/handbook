@@ -2,7 +2,7 @@
 
 ### MolochDAO Grants are processed three times per year, April-May, August-September and December-January.  It is a two month process that begins on the first day of the first month and ends on the twentieth day of the second month.  The following schedule can be applied to any of the trianual grant rounds.
 
-**Week 1: Exploration Phase - Applications are open!**
+**Week 1-2: Exploration Phase - Applications are open!**
 
 * Application should be posted on the [Discourse forum](https://forum.daohaus.club/c/moloch-rises/165) to facilitate public debate
 * Internal member conversation can happen in the dedicated #proposal-discussion Discord channel.
@@ -21,7 +21,7 @@
 
 **End of Week 4: Deadline for Submitting Proposals**
 
-**Week 5: Sponsorship and Voting Phase**
+**Week 5-6: Sponsorship and Voting Phase**
 
 * DAO members that have expressed interest in championing specific projects will be reminded by RBG to sponsor the proposal at a **sponsorship price of 1 WETH.** _There is no processing reward on the v2 DAO,_ so **100% of these funds will be returned after the grace period** and gas fees will be reimbursed from the RBG budget. (Please keep your txn records!)
 * Sponsorship will occur at a **MolochDAO member meeting (aka sponsorship party!)** to ensure they are opened to voting at the same time.
