@@ -19,7 +19,7 @@
 
 * Projects that have gathered positive sentiment from the DAO will be invited to submit their proposal on-chain through the [DAOhaus portal](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals). Note: v2 Moloch DAOs allow anyone to submit a proposal, not restricted to members. 12 proposals can be submitted per day. **Proposals should not be sponsored at this time.**
 
-**Week 5: Deadline for Submitting Proposals**
+**End of Week 4: Deadline for Submitting Proposals**
 
 **Week 5: Sponsorship and Voting Phase**
 
