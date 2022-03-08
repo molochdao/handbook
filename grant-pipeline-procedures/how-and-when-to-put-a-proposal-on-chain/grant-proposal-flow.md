@@ -4,7 +4,7 @@
 
 **Week 1: Exploration Phase - Applications are open!**
 
-* Application should be posted on the Discourse forum to facilitate public debate
+* Application should be posted on the [Discourse forum](https://forum.daohaus.club/c/moloch-rises/165) to facilitate public debate
 * Internal member conversation can happen in the dedicated #proposal-discussion Discord channel.
 * ReallyBoringGuild (RBG) will encourage MolochDAO members to submit applications on the forum and to scrutinize other applications posted there.
 * **RBG will not be submitting proposals on behalf of DAO members.**
