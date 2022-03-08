@@ -1,6 +1,6 @@
 # Grant Proposal Flow
 
-### MolochDAO Grants are processed three times per year, April-May, August-September and December-January.  It is a two month process that begins on the first day of the first month and ends on the twentieth day of the second month.  The following schedule can be applied to any of the trianual grant rounds.
+### MolochDAO Grants are processed three times per year, April-May, August-September and December-January.  It is a two month proces.  The following schedule can be applied to any of the trianual grant rounds.
 
 **Week 1-2: Exploration Phase - Applications are open!**
 
