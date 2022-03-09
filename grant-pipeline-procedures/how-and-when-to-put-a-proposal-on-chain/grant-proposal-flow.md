@@ -6,6 +6,7 @@
 
 * Application should be posted on the [Discourse forum](https://forum.daohaus.club/c/moloch-rises/165) to facilitate public debate
 * Internal member conversation can happen in the dedicated #proposal-discussion Discord channel.
+* Potential Grantees are encouraged to post their questions for ReallyBoringGuild and MolochDAO members in the #grant-support Discord channel.
 * ReallyBoringGuild (RBG) will encourage MolochDAO members to submit applications on the forum and to scrutinize other applications posted there.
 * **RBG will not be submitting proposals on behalf of DAO members.**
 
@@ -13,7 +14,7 @@
 
 * Members are encouraged to provide feedback on their preferred proposals in the Discourse forum (public) and #proposal-discussion Discord channel. RBG will relay this information to the projects to help strengthen their proposal and schedule townhall meetings with the projects if desired.
 * RBG will create polls for the strongest proposals to secure sentiment from members. This will occur in the #proposal-discussion Discord channel.
-* Weak or undesireable projects will be removed from consideration at this time. “Bad fit” projects will be notified.
+* Weak or undesireable projects will be removed from consideration at this time. Projects that have low sentiment and engagement from the DAO will be notified.
 
 **Week 4: Submission Phase - Proposals Go On-Chain!**
 
