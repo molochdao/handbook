@@ -14,7 +14,7 @@
 
 * Members are encouraged to provide feedback on their preferred proposals in the Discourse forum (public) and #proposal-discussion Discord channel. RBG will relay this information to the projects to help strengthen their proposal and schedule townhall meetings with the projects if desired.
 * RBG will create polls for the strongest proposals to secure sentiment from members. This will occur in the #proposal-discussion Discord channel.
-* Weak or undesireable projects will be removed from consideration at this time. Projects that have low sentiment and engagement from the DAO will be notified.
+* Projects that have low sentiment and engagement from the DAO will be removed from consideration and notified as such.
 
 **Week 4: Submission Phase - Proposals Go On-Chain!**
 
