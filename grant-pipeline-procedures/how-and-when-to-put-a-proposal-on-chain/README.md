@@ -18,7 +18,7 @@ Not Ethereum native? Not dedicated to radical solution to end the tragedy of the
 
 **How much funding is usually available?**
 
-We dispense $1,000,000+ per year to righteous projects. We hold 3 grant rounds per year (annual schedule TBD).
+We dispense $1,000,000+ per year to righteous projects. We hold 3 grant rounds per year, April-May, August-September and December-January.
 
 **How do we support the projects we give grants to?**
 
@@ -30,10 +30,7 @@ Included in the [2021 Annual Report](https://molochdao.com/annual-report/) is pr
 
 **What is the process of getting funding?**
 
-* Post your idea on the forums to get initial feedback from other community members; tweet at us, message us etc. We usually chat and provide very quick feedback in regards to whether the project would be in the scope of funding.
-* We’ll usually reach out to jump on a video call with you and within 2-3 days within the call determine if your project is a good fit.
-* Submit a proposal on-chain through the DAOHaus platform
-* If you get a strong yes signal from us, we’ll likely provide feedback and also have additional feedback for the project before we commit to a grant.
+* See [Grant Proposal Flow](https://github.com/BorrowLucid/handbook/blob/main/grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/grant-proposal-flow.md)
 
 ### How to Submit a Proposal
 
