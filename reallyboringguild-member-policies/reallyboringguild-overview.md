@@ -12,10 +12,8 @@ RBG encourages strategic grant making within the DAO and secures funding for the
 
 Upon being awarded a MolochDAO grant and receiving the corresponding shares, the guild retained autonomy over their award. The guild determines the quantity - if any - of shares that will be burned to provide WETH liquidity for their operations. The guild  determines their own governance protocols, budget distributions, and delegates to participate in soft polling and on-chain voting scenarios.&#x20;
 
-RBG attends to activities that help improve MolochDAO as a whole. This includes (but is not limited to) such activities as growing the MolochDAO ecosystem by iterating on strategy, organizing member meetings and polls, budgeting, community management, etc.&#x20;
-
 Any discrepancy or dispute that may arise between RBG and the DAO should be resolved between members. A member committee may be assigned or formed to mediate a meeting, but does not serve as a judiciary in determining a verdict in such cases. It is the responsibility of members to carefully review and critique RBG jurisdiction.&#x20;
 
-RBG cannot submit research initiatives that reach beyond the purview of their operations, as stated in their initial guild application reviewed by members. If RBG identifies a potential for new research they may coordinate with a currently funded project to disseminate their findings or broadcast a call for the creation of a grant initiative, but should not dedicate resources awarded for operational activities towards this new research.&#x20;
+RBG cannot submit research initiatives that reach beyond the purview of their operations, as stated in their initial guild application reviewed by members.&#x20;
 
 RBG stems from the initial operations guild proposal submitted in January 2021 by **stellarmagnet.**
