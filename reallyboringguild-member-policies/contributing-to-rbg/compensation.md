@@ -7,7 +7,7 @@ description: Work in progress!
 **Rates**
 
 * A new contributor begins at the base rate of 50/hr for the first 6 months or until the equivalent of 1 MolochDAO share is reached (=.4987 ETH at the time of this writing)
-* After the introductory period, the initiate may request an evaluation of their work by other ReallyBoringGuild and/or MolochDAO members. If they are deemed a valuable contributor, they compensation rate will increase to 75/hr and they may be invited to submit a membership proposal to the DAO, along with a tribute amount equivalent to one MolochDAO share.
+* After the introductory period, the initiate may request an evaluation of their work by other ReallyBoringGuild and/or MolochDAO members. If they are deemed a valuable contributor, their compensation rate will increase to 75/hr and they may be invited to submit a membership proposal to the DAO, along with a tribute amount equivalent to one MolochDAO share.
 
 
 
