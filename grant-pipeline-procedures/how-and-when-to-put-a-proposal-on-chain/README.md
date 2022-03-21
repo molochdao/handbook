@@ -8,8 +8,6 @@ MolochDAO funds projects and individual researchers dedicated to the advancement
 
 We don't care about your shitcoin.&#x20;
 
-We love tools that facilitate active choice and illuminate those choices to the community, but we don't fund DAO tools.&#x20;
-
 We don't like degen vibes.&#x20;
 
 We're not just perversely incentivized to pump ETH in order to stack grips from the bullish rise; we remember crypto winter and know it will come again. MolochDAO advocates for a grander vision of the world and knows that Ethereum will help us manifest the change we want to see.&#x20;
