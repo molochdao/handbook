@@ -16,7 +16,7 @@ You can join MolochDAO through several means:
 
 After providing labor equivalent to one share (.4987 ETH at the time of this writing), members of ReallyBoringGuild will evaluate the efforts of the contributor and may invite them to submit a membership proposal to MolochDAO. The contributor will be required to pay tribute for their share to publicly demonstrate their willingness to sacrifice of themselves for the greater good (and have some skin in the game). This path relies on one’s own initiative and drive to get shit done and prove yourself via blood, sweat, and tears.
 
-If you want to go this route DM @traviswyche or @annwillmott on telegram.
+If you want to go this route, join the Discord and let us know in the get-involved channel.
 
 **What do you recommend to get started?**
 

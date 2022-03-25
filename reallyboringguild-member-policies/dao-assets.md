@@ -8,10 +8,10 @@ An asset is a resource with value that the DAO operates with the expectation tha
 
 #### List of DAO Assets&#x20;
 
-1. Website&#x20;
-2. Twitter account&#x20;
+1. [Website](https://molochdao.com/)&#x20;
+2. [Twitter account](https://twitter.com/molochdao)&#x20;
 3. Logo/branding, graphics, PR initiatives&#x20;
-4. Discord MolochDAO member forum&#x20;
+4. [Discord](https://discord.com/invite/PxrnEUsbef) MolochDAO member forum&#x20;
 
 #### Asset Tasks&#x20;
 

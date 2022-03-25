@@ -2,15 +2,9 @@
 
 There is one Really Boring ops sync meeting each week that we encourage all ReallyBoringGuild members to attend. This is also open to all MolochDAO members.
 
-Every Friday is a MolochDAO happy hour. We strongly encourage you join for its cultural reconnaissance.
-
 **Members only:**
 
-* ReallyBoringGuild Sync, Monday at 9AM MST (15:00 UTC)
-
-**Open to the public:**
-
-* Happy-Hour, Friday at 4PM MST (22:00 UTC)
+* ReallyBoringGuild Sync, Monday at 9AM MST (15:00 UTC) in [The Bored Room](https://discord.gg/yUTqZWhF4a)
 
 
 

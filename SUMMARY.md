@@ -54,7 +54,7 @@
 * [Proposal Process](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/README.md)
   * [Application](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/application.md)
   * [Annual Grant Schedule](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/annual-grant-schedule.md)
-  * [Q4 Proposal Flow](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/q4-proposal-flow.md)
+  * [Grant Proposal Flow](https://github.com/BorrowLucid/handbook/blob/main/grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/grant-proposal-flow.md)
   * [Proposal Types](grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/proposal-types.md)
 * [Receiving a Grant Award](grant-pipeline-procedures/receiving-a-grant-award/README.md)
   * [Shares vs Loot Distribution](grant-pipeline-procedures/receiving-a-grant-award/shares-vs-loot-distribution.md)

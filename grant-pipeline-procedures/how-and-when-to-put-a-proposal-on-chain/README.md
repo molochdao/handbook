@@ -8,8 +8,6 @@ MolochDAO funds projects and individual researchers dedicated to the advancement
 
 We don't care about your shitcoin.&#x20;
 
-We love tools that facilitate active choice and illuminate those choices to the community, but we don't fund DAO tools.&#x20;
-
 We don't like degen vibes.&#x20;
 
 We're not just perversely incentivized to pump ETH in order to stack grips from the bullish rise; we remember crypto winter and know it will come again. MolochDAO advocates for a grander vision of the world and knows that Ethereum will help us manifest the change we want to see.&#x20;
@@ -18,7 +16,7 @@ Not Ethereum native? Not dedicated to radical solution to end the tragedy of the
 
 **How much funding is usually available?**
 
-We dispense $1,000,000+ per year to righteous projects. We hold 3 grant rounds per year (annual schedule TBD).
+We dispense $1,000,000+ per year to righteous projects. We hold 3 grant rounds per year, April-May, August-September and December-January.
 
 **How do we support the projects we give grants to?**
 
@@ -26,14 +24,11 @@ We are actively pursuing community building and support initiatives through stre
 
 **Where can I read more about previous grants?**
 
-We are currently working on a comprehensive annual report of previously funded MolochDAO initiatives, as well as a repository for regular updates to current projects.
+Included in the [2021 Annual Report](https://molochdao.com/annual-report/) is previously funded MolochDAO initiatives, as well as a repository for regular updates to current projects.
 
 **What is the process of getting funding?**
 
-* Post your idea on the forums to get initial feedback from other community members; tweet at us, message us etc. We usually chat and provide very quick feedback in regards to whether the project would be in the scope of funding.
-* We’ll usually reach out to jump on a video call with you and within 2-3 days within the call determine if your project is a good fit.
-* Submit a proposal on-chain through the DAOHaus platform
-* If you get a strong yes signal from us, we’ll likely provide feedback and also have additional feedback for the project before we commit to a grant.
+* See [Grant Proposal Flow](https://github.com/BorrowLucid/handbook/blob/main/grant-pipeline-procedures/how-and-when-to-put-a-proposal-on-chain/grant-proposal-flow.md)
 
 ### How to Submit a Proposal
 
